@@ -27,7 +27,7 @@ Windows and macOS are pretty self-explanatory based on the above.
 
 ## Radio Configuration
 
-On the Data tab of the radio programming application, ensure the radio has Data Port set to Aux (15-pin accessory connector), Mic (front panel RJ45), or Internal Options as required. Set the Command Mode Baud Rate to 28800 (or the rate you specify when opening the serial port).
+On the Data tab of the radio programming application, ensure the radio has Data Port set to Aux (15-pin accessory connector), Mic (front panel RJ45), or Internal Options as required. Set the Command Mode Baud Rate to 28800.
 
 ## Usage
 
