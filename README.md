@@ -2,6 +2,8 @@
 
 Control the channel (and maybe more) of a Tait 8000-series radio.
 
+If you find this useful, please feel free to [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8KFHA0), but no pressure of course.
+
 ## Installation
 
 ### Linux
