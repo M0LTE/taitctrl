@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "taitctrl": {
+      "commandName": "Project",
+      "commandLineArgs": "com6 chan"
+    }
+  }
+}
